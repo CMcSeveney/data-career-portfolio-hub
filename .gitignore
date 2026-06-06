@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Data/logs
+data/raw/
+data/private/
+logs/
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Office/temp
+~$*
+*.tmp

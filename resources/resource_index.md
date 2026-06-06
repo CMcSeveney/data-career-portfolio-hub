@@ -1,0 +1,24 @@
+# Resource Index
+
+- SQL Server Documentation - https://learn.microsoft.com/sql/sql-server/
+- T-SQL Reference - https://learn.microsoft.com/sql/t-sql/language-reference
+- Power BI Docs - https://learn.microsoft.com/power-bi/
+- Power Query Docs - https://learn.microsoft.com/power-query/
+- Python Tutorial - https://docs.python.org/3/tutorial/index.html
+- pandas Docs - https://pandas.pydata.org/docs/
+- Postman Learning - https://learning.postman.com
+- Bruno - https://www.usebruno.com
+- MDN HTTP - https://developer.mozilla.org/en-US/docs/Web/HTTP
+- dbt Learn - https://docs.getdbt.com/docs/introduction
+- Airflow - https://airflow.apache.org
+- scikit-learn - https://scikit-learn.org
+- Hugging Face Learn - https://huggingface.co/learn
+- FastAPI - https://fastapi.tiangolo.com
+- Spark Docs - https://spark.apache.org/docs/latest/
+- Databricks Academy - https://academy.databricks.com
+- GitHub Skills - https://skills.github.com
+- ASP.NET Core - https://learn.microsoft.com/en-us/aspnet/core/
+- EF Core - https://learn.microsoft.com/en-us/ef/core/
+- Azure Pipelines - https://learn.microsoft.com/en-us/azure/devops/pipelines/
+- Docker Docs - https://docs.docker.com
+- Playwright - https://playwright.dev/
