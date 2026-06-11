@@ -23,7 +23,9 @@ This matrix maps portfolio projects to the skills they demonstrate.
 | AI/NLP | No | No | No | No | Optional | No | Yes |
 | GitHub documentation | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 
-## Workplace Stack Alignment
+## Professional Stack Alignment
+
+This list is not intended to describe any single employer’s full technology stack. It is a general alignment between my learning roadmap and common technologies used across modern SaaS, cloud, data, and application-support environments.
 
 | Workplace Skill | Covered Directly? | Transferable From | Notes |
 |---|---|---|---|
